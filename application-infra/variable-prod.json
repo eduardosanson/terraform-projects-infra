@@ -1,0 +1,10 @@
+{
+  "cluster_name"                : "cortex",
+  "cluster_max_size"            : 4,
+  "cluster_min_size"            : 1,
+  "instance_type"               : "t2.small",
+  "image_id"                    : "",
+  "user_data_path"              : "files/user_data.sh",
+  "additional_user_data_script" : "",
+  "log_group"                   : ""
+}
